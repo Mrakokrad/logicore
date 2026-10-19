@@ -1,9 +1,0 @@
-bin/
-obj/
-.vs/
-.idea/
-logicore_state.json
-delivery_log.txt
-DEFENSE.md
-STRUCTURE.md
-CODE_GUIDE.md
